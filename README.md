@@ -1,4 +1,9 @@
-
+<img
+  src="images/f384b2ab-43b9-411f-ae2c-2cf06b6a6527.png"
+  alt="Alt text"
+  title="Optional title"
+  style="display: inline-block; margin: 0 auto; max-width: 300px">
+  
 <h1 align="center"> Bit Adventure </h1>
 
 <p2 align="center"> 
